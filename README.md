@@ -1,6 +1,6 @@
 # 📊 Telecom Churn Analysis Dashboard
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/860b2fe4-f2eb-4a3a-9825-6c1970bbc3ec" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/224ed568-b303-4c66-a6c6-e4c9a5dab5b9" />
 
 
 ## Overview
